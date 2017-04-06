@@ -1,11 +1,5 @@
 # Change Log
 
-## [1.0.0-rc.3](https://github.com/auth0/auth0-spring-security-api/tree/1.0.0-rc.3) (2017-04-04 TBC)
-[Full Changelog](https://github.com/auth0/auth0-spring-security-api/compare/1.0.0-rc.2...1.0.0-rc.3)
-
-**Changed**
-- Update the java-jwt version to fix [\#29](https://github.com/auth0/auth0-spring-security-api/issues/29) ([pacey](https://github.com/pacey))
-
 ## [1.0.0-rc.2](https://github.com/auth0/auth0-spring-security-api/tree/1.0.0-rc.2) (2016-12-21)
 [Full Changelog](https://github.com/auth0/auth0-spring-security-api/compare/1.0.0-rc.1...1.0.0-rc.2)
 
